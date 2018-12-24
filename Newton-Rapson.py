@@ -4,6 +4,7 @@
 Created on Mon Dec 24 19:54:45 2018
 
 @author: robson
+
 """
 
 epsilon = 0.01
